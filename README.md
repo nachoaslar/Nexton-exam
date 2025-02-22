@@ -11,7 +11,7 @@ To run the project locally:
 3. Start the project with Docker Compose:
 
 ```bash
-docker-compose up -d
+docker-compose up
 ```
 
 ## 2. Project Explanation
