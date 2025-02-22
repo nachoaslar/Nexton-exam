@@ -1,0 +1,10 @@
+# This file is used to include the dependencies that are required per project
+
+# BASE REQUIREMENTS
+-r requirements/base.txt
+
+# FOR JWT SUPPORT
+# -r requirements/jwt.txt
+
+# FOR WEBSOCKET SUPPORT
+# -r requirements/websockets.txt
