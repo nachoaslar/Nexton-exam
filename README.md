@@ -39,6 +39,10 @@ Sends a notification saying the amount of candidate without a current job, and t
 python manage.py load_data
 ```
 
+- There are some commented # print(str(queryset.query)) lines that can be uncommented for logging the full SQL query.
+
+
+
 ### Created By:
 
 - **Juan Ignacio Borrelli**  
